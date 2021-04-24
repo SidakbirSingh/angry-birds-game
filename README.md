@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+Sidakbir game output link =https://sidakbirsingh.github.io/angry-birds-game/
